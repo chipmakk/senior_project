@@ -16,7 +16,7 @@ ul .nav a:hover {
 }
 .navbar .navbar-nav {
   display: inline-block;
-  float: none;
+  float: left;
   vertical-align: top;
 }
 .mid{
@@ -63,6 +63,8 @@ ul .nav a:hover {
 	color: black;
 }
 ::-webkit-input-placeholder {
-   color: black;
+   color: #CBB677;
+   text-align: center;
 }
+
 
